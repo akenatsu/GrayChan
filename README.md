@@ -12,7 +12,7 @@ Note: その他の.blendをご利用したい場合は、git/git-lfsをご利用
 
 ## ライセンス
 
-「らりほま式 Gray ちゃん」のライセンスに準じます。詳細は[rarilog][page]を確認ください。
+「らりほま式 Gray ちゃん」のライセンスに準じます。詳細は[rarilog][page]を確認ください
 
 [page]: http://rarihoma.xvs.jp/products/graychan/
 
