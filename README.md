@@ -16,6 +16,12 @@ Note: その他の.blendをご利用したい場合は、git/git-lfsをご利用
 
 [page]: http://rarihoma.xvs.jp/products/graychan/
 
+
+## 参考資料
+
+* blenderのFBX exportとUE4のFBX importの方法について
+  - [Blender で作ったアニメーションを Unreal Engine 4 で利用する](http://www.slideshare.net/rarihoma/blender-step1)
+
 ## TODO
 
 * [x] changelog書く
@@ -31,6 +37,8 @@ Note: その他の.blendをご利用したい場合は、git/git-lfsをご利用
 	+ [x] run  => DopeSheet/ActionEditor/RunAnime.004
 	+ [ ] idle
 	+ [x] jump => DopeSheet/ActionEditor/Walk.005
+  - アニメーション選択とトリミング
+    + [x] NLA Editor対応
 * ver.0.5.11
   - Rig改造
     + [ ] 腕から手首回り
