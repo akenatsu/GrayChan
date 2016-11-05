@@ -12,7 +12,12 @@ blender上でテクスチャが適用された改変版Grayちゃんモデルを
 
 ## ダウンロード
 
-上記の「Download ZIP」からダウンロードして、「GrayChan_v05x.blend」をご利用ください
+下記の画像のように「Download ZIP」からダウンロードして、
+
+![dl_link](https://github.com/akenatsu/GrayChan/blob/master/img/dl_graychan.jpg "ダウンロードリンク")
+
+展開して含まれている「GrayChan_v05x.blend」をご利用ください
+
 
 ```
 Note: その他の.blendファイルをご利用したい場合は、git/git-lfsを用いて別途ダウンロードしてください
