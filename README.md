@@ -33,10 +33,10 @@ Note: その他の.blendをご利用したい場合は、git/git-lfsをご利用
 
 * ver.0.5.12
   - アニメーション追加
-    + [x] walk => DopeSheet/ActionEditor/GrayChanAction.004
+    + [x] walk => DopeSheet/ActionEditor/Walk.005
 	+ [x] run  => DopeSheet/ActionEditor/RunAnime.004
 	+ [ ] idle
-	+ [x] jump => DopeSheet/ActionEditor/Walk.005
+	+ [x] jump => DopeSheet/ActionEditor/GrayChanAction.004
   - アニメーション選択とトリミング
     + [x] NLA Editor対応
 * ver.0.5.11
